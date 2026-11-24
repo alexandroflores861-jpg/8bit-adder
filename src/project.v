@@ -77,5 +77,3 @@ module rca8(input wire [7:0] A,
 
     assign cout = carry[7];
 endmodule
-
-endmodule
